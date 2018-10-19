@@ -1,5 +1,7 @@
 # YAML support for the Go language
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/yaml.svg)](https://www.guardrails.io)
+
 Introduction
 ------------
 
